@@ -1,1 +1,2 @@
 "# QuickPoll" 
+This shit whack
